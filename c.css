@@ -84,7 +84,7 @@ nav a:hover {
 }
 
 .hero-text h2 {
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 10px;
 }
 
@@ -204,3 +204,4 @@ footer {
     nav { display: none; }
     .hero-text h2 { font-size: 28px; }
 }
+
